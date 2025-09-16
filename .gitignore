@@ -217,3 +217,5 @@ __marimo__/
 
 # Large datasets to ignore
 /datasets/trn.json
+
+*/unsloth_compiled_cache/
